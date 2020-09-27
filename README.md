@@ -1,2 +1,2 @@
 # notes
-学习笔记
+- [CMake](./CMake/index.md)
